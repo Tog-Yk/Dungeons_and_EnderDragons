@@ -2,8 +2,8 @@
     "pack": {
         "pack_format": 22,
         "description": [
-            {"text":"v0.1.5","color":"#ffee00","bold": true},
-            {"text":"Welcome adventurer, i Have a Quest for you","color":"#4a4a4a", "bold": false}
+            {"text":"v0.1.6","color":"#ffee00","bold": true},
+            {"text":" Welcome adventurer,\nI Have a quest for you","color":"#4a4a4a", "bold": false}
         ]
     }
 }
