@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/carved_pumpkin",
+    "overrides": [
+        {"predicate": {"custom_model_data": 1}, "model": "item/painting_cave_info"},
+        {"predicate": {"custom_model_data": 2}, "model": "item/painting_drill_info"},
+        {"predicate": {"custom_model_data": 3}, "model": "item/painting_vitals"}
+    ]
+}

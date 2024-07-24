@@ -1,9 +1,9 @@
 {
-	"credit": "Made by Djesper",
+	"credit": "Made by tog_yk",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "blockbench:./quest_bundle",
-		"particle": "blockbench:./quest_bundle"
+		"0": "item/quest_bundle",
+		"particle": "item/quest_bundle"
 	},
 	"elements": [
 		{

@@ -1,0 +1,56 @@
+{
+	"credit": "Made by tog_yk",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/Painting_drill_info",
+		"particle": "item/Painting_drill_info"
+	},
+	"elements": [
+		{
+			"from": [-8, 8, 0],
+			"to": [24, 9, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 8, 8, 8.25], "texture": "#0"},
+				"east": {"uv": [8, 0.25, 12, 0.5], "texture": "#0"},
+				"south": {"uv": [8, 0, 16, 0.25], "texture": "#0"},
+				"west": {"uv": [8, 0.5, 12, 0.75], "texture": "#0"},
+				"up": {"uv": [8, 4, 0, 0], "texture": "#0"},
+				"down": {"uv": [8, 4, 0, 8], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0, 1.75],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 0, 1.75],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"translation": [-9, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [-9, 0, 0]
+		},
+		"ground": {
+			"translation": [0, -3.5, 0],
+			"scale": [0.13, 0.13, 0.13]
+		},
+		"gui": {
+			"rotation": [90, 0, 0],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"head": {
+			"translation": [0.25, 6.75, 0.25],
+			"scale": [1.8, 1.8, 1.8]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, 2],
+			"scale": [2, 2.01, 2]
+		}
+	}
+}
