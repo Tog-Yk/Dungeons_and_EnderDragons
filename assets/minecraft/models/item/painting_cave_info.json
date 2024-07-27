@@ -2,8 +2,8 @@
 	"credit": "Made by tog_yk",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/Painting_cave_info",
-		"particle": "item/Painting_cave_info"
+		"0": "item/painting_cave_info",
+		"particle": "item/painting_cave_info"
 	},
 	"elements": [
 		{
@@ -49,7 +49,7 @@
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [0, 0, 2],
+			"translation": [-16, 0, 2],
 			"scale": [2, 2.01, 2]
 		}
 	}

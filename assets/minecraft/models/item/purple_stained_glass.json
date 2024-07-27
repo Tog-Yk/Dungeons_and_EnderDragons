@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/purple_stained_glass",
+  "overrides": [
+    {"predicate":{"custom_model_data": 1}, "model": "item/awoken_crystal_hart"},
+    {"predicate":{"custom_model_data": 2}, "model": "item/fallen_crystal_hart"}
+  ]
+}
