@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/big_handheld",
+	"textures": {
+		"1": "item/netherite_scythe",
+		"particle": "item/netherite_scythe"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "item/thunderwave",
+	"textures": {
+		"0": "item/thunderwave_uncharged",
+		"particle": "item/thunderwave_uncharged"
+	}
+}

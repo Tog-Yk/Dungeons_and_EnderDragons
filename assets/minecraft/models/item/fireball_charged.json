@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:item/fireball",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/fireball_charged",
+		"particle": "item/fireball_charged"
+	}
+}
